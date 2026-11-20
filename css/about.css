@@ -447,7 +447,8 @@ p {
 
 .team-avatar {
     width: 100%;    
-    border-radius: 20px;
+    max-height: 460px;
+    border-radius: 200px;
     margin-bottom: 18px;
     background-color: #2b4231;
 
